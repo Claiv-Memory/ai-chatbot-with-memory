@@ -99,3 +99,7 @@ See [template-document-rag-nextjs](https://github.com/Claiv-Memory/template-docu
 ---
 
 Keywords: ai chatbot with memory, chatbot that remembers users, openai chatbot persistent memory, nextjs ai chatbot, chatbot long term memory, ai that remembers, llm memory, chatbot context across sessions, openai memory nextjs
+
+---
+
+⭐ **If this saves you time, give it a star** — it helps other developers find it.
