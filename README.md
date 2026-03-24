@@ -5,6 +5,8 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Claiv-Memory/ai-chatbot-with-memory)
 
+👉 **Want to add memory to your own app?** See [CLAIV Memory](https://github.com/Claiv-Memory/claiv-memory) — the memory API powering this chatbot.
+
 **Without memory:**
 ```
 User:  My name is Alex and I run a fitness business.
